@@ -1,1 +1,3 @@
-# Retail-Sales-Data
+##Building a Retail Sales Data Agent##
+
+#Project Objectives
